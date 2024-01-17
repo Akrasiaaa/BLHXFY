@@ -1,0 +1,48 @@
+id,name,text,trans
+0-chapter_name,,Opening,开端
+0-synopsis,,"Amidst a raging blizzard, the swordswoman Beatrix catches sight of the Odajumoki, a fearsome Harvin gang, beating on a pair of settlers. She approaches them and demands to be taken to their hideout.",在一片呼啸的暴风雪之中，女剑士贝阿朵莉切看到了一伙可怕的哈文族团体，“小鸭摩托帮”（オダヅモッキー・ギャングスタ）；这群人正在教训一对定居者。她靠近了这群帮派成员，并要求后者将自己带到他们的据点。
+0,,"In the grip of midwinter, nearly entombed beneath immense snowdrifts is the frigid landscape of North Vast.",<span class='scene-font-katari'>隆冬时节，北方荒原的寒冷地带几乎完全被巨大的雪堆掩埋。</span>
+1,,"Known since long ago as the White Continent, this is a world where even now civilization has yet to flourish and silence reigns.",<span class='scene-font-katari'>此地自长久以前就被认知为“白之大陆”，是一个直到现在尚无文明兴盛、由寂静支配的世界。</span>
+2,,"Into this unforgiving climate where no trace of life can be found, a pair of resolute but foolhardy settlers venture forth.",<span class='scene-font-katari'>在这寻不到任何生命迹象的恶劣气候中，一对坚决而鲁莽的定居者向前跋涉。</span>
+3,Settler 1/定居者1,"Brr... So cold! So cold, but... so vast!",呃啊啊……太冷了！这么冷，但……这么辽阔！
+4,Settler 2/定居者2,Brrr... Leaving a vast expanse like this to the elements is such a waste! We can claim this land as our own!,啊……把如此广阔的土地撂荒真是一种浪费！我们可以把这片土地据为己有！
+5,Settler 1/定居者1,Splendid idea! From now we reign over this land!,绝妙的点子！从现在开始我们将统治这片土地！
+6,,"The two settlers are in high spirits. They came from far, far away to settle this untamed land.",<span class='scene-font-katari'>定居者们情绪高涨。他们自很远、很远的地方前来这尚未开发的土地定居。</span>
+7,Settler 2/定居者2,"An expanse as vast as this... Hyehehe, we could sell this land to another country for piles of rupies—huh?",如此辽阔……嘿嘿，我们可以把这块地卖给别的国家，换来成堆的卢比——哈？
+8,Settler 2/定居者2,Did you hear that just now?,你刚刚听见那个了吗？
+12,Ruffians/小混混们,Hyaaah!,（怪叫声）
+14,Silver-Haired Youth,Hyaaa! Yahaaa!,（怪叫声）
+15,Settler 2/定居者2,Wh-who are these guys?,这，这些家伙是什么人？
+16,Ruffian 1/小混混1,Hiiyaaa! You claim this land to be yours? Who do you punks think you are!,（怪叫声）你们说这片土地是你们的？\n你们以为自己是什么货色！
+17,Ruffian 2/小混混2,"Hyehe, what were you prattling on about? This island is ours!",呵呵，你们在说什么胡话！这个岛是我们的！
+18,Ruffian 3/小混混3,Gyahaha! You'd better think again! We don't like anyone threatening our freedom!,（怪叫声）你们最好再想想！我们不喜欢任何人威胁到我们的自由！
+19,Settler 2/定居者2,Yikes...,呜哇……
+21,Ruffian 2/小混混2,Take that! And that! Drop-kick!\nTie them up! For our freeedom!,尝尝那个！还有那个！飞踢！\n把他们绑起来！为了我们的自由！
+22,Settler 1/定居者1,"Ar-aaargh! Stop, please!",（惊恐的叫声）停下来，求你了！
+23,Settler 1/定居者1,Ack!,哇啊！
+25,Ruffian 1/小混混1,No one! Threatens! Our! Father's! Freeeedom!,没有人！能！威胁！我们的！父的！自——由！
+26,Ruffians/小混混们,Hiiyaaa! Yahaaa!,（怪叫声）
+27,Silver-Haired Youth/银发青年,Freedom?,自由？
+28,Silver-Haired Youth/银发青年,"Hey, you guys. I need to ask, but are we really, uh, free?",嘿，大家。我想问问，但我们真的，呃，自由吗？
+29,Ruffian 2/小混混2,"What? Well, of course we are! Didn't Allfather grant us the freedom to rampage across this land?",啥？好吧，我们当然是自由的？难道全父没有给我们在这片土地上肆意妄为的自由（奔放に暴れ回れる自由；the freedom to rampage）吗？
+30,Silver-Haired Youth/银发青年,"Of course, yeah! Hehe, it's not like us geniuses to worry about stuff! For now let's give these guys a good beating!",当然，好耶！嘿嘿，这不像是我们这种天才会担心的事儿！现在就让我们好好教训下这些家伙！
+31,Ruffians/小混混们,For freeedom!,为了自由！
+33,Settlers/定居者们,Aaargh!,哇啊！
+35,,"Screams of unbearable anguish ring out, and the pure white snow is splattered vivid red.",<span class='scene-font-katari'>出于无法忍受的痛苦的尖叫声响起，纯白的雪被溅上了鲜艳的红色。</span>
+36,,"From a faraway vantage point, an observer watches this brutal punishment.",<span class='scene-font-katari'>一位观察者正从远处的制高点观看这场暴行。</span>
+39,Swordswoman/女剑士,How horrible... They didn't show him any mercy...,多么可怕……他们对他毫不留情……
+40,Swordswoman/女剑士,"Whoever heard of such a thing, the freedom to rampage...",谁听说过这种事情，肆意妄为的自由……
+41,Swordswoman/女剑士,Those outlaws are definitely the Odajumoki I was told about.,这些无法之辈肯定就是我听说过的“小鸭摩托帮”（オダヅモッキー・ギャングスタ）。
+42,Swordswoman/女剑士,"Hehe, looks like the intel I picked up was no lie.",呵呵，看起来我获得的情报不是个谎言。
+43,,The swordswoman speaks triumphantly and starts to advance toward the members of the so-called Odajumoki Gang.,<span class='scene-font-katari'>女剑士得意洋洋地说道，并开始向所谓的“小鸭摩托帮”的成员靠近。
+46,Swordswoman/女剑士,"Oi, you there! You've had your fun now.",喂，那边的家伙！你们正玩的挺高兴啊。
+47,Ruffian 3/小混混3,Huh? And who are you? Ain't never seen you 'round these parts!,哈？你谁？从没在这附近看到过你！
+48,Ruffian 2/小混混2,"My, my, isn't she adorable? Hyehe, let me get a closer look at you, missy!",天哪，她不是挺可爱的吗？嘻嘻，小妞，让我仔细看看你！
+49,Ruffian 1/小混混1,"Yeah, why not come spend some time with us! Nyehehehe!",对的，为什么不和我们一起耍耍！（怪笑声）
+50,Swordswoman/女剑士,"Humph, who the hell would want to spend time with you lowlives?",哼哼，谁他妈会愿意和你们这些下等人在一起？
+51,Swordswoman/女剑士,Actually there is something I'd like to talk to you about. Something you'll wanna hear.,事实上我有件事想和你们谈谈。你们会想听听的。
+52,Ruffian 1/小混混1,"Oh? Tell us more.\nHehehe, let's see what she has to say for herself.",哦？说来听听。\n嘿嘿嘿，让我们看看她有什么要说的。
+53,Swordswoman/女剑士,Not so fast. Not here. Take me to your hideout.,别这么急。别在这说。带我去你们的藏身处。
+54,Swordswoman/女剑士,There we'll be able to talk without interruptions...,在那儿我们可以畅所欲言……
+info,,,scene_evt151231_cp0_q1_s10
+译者,,,Ἀκρασία
