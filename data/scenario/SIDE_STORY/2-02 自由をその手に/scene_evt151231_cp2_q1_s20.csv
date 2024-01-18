@@ -1,0 +1,30 @@
+id,name,text,trans
+0-chapter_name,,2: Betrayal Begets Betrayal,第2话 背叛与背叛
+0-synopsis,,"The defeated Odajumoki beat a swift retreat. However, one of their members, Skull, is a little slow in his getaway and ends up captured by Eustace.",被击败的小鸭摩托帮迅速撤退了。然而，斯卡尔，他们中的一员，跑得有点慢、最终被尤斯缇斯抓住。
+0,Ruffian 1/小混混1,Ai yai yai! These guys are good!,哎呀呀！这些家伙真行！
+1,Ruffian 3/小混混3,We can't hold out much longer! Tell the boss we have to retreat!,我们撑不了多久了！告诉老大，我们必须撤退！
+2,Ruffian 2/小混混2,"If that's the plan, I'm not waitin' around! Let's get outta here! Hiiyaaa!",如果是这样的话，那我等不了了！让我们离开这！（怪叫声）
+4,Skull,W-wait! Don't leave me!,等、等等！别丢下我！
+5,,"The boy with the skull painted on his face flees, dropping a blue barrette in his panic. Eustace snatches it up at once.",<span class='scene-font-katari'>脸上画着骷髅头的男孩逃跑了，惊慌失措地丢下了一个蓝色的发饰。尤斯缇斯立马抓住了它。</span>
+6,Eustace,This is...,这是……
+9,Skull,Waargh! Lemme go!,呃！放我走！
+10,Ruffian 3/小混混3,"Skull's been caught! Hyehehe, I guess that skull of his really is hollow!",斯卡尔被抓住了！嘿嘿嘿，我猜他脑袋里真的是空的！（斯卡尔skull有头骨的意思）
+11,Skull,Who dares call me Hollow-Skull! I'm a genius! Come and free me this second!,谁敢叫我“脑袋空空斯卡尔”！我是个天才！快来救我！
+12,Ruffian 2/小混混2,Haaahaha! You certainly talk a good fight!,哈哈哈！你的嘴上功夫真不错！
+14,Vyrn/碧,Wow. Talk about cold-hearted...,哇。他们可真冷血……
+15,Skull,Why you! Unhand me this instant! I'm a genius! And I'm gonna be a big shot!,你干嘛！现在立马松开我！我是个天才！而且我要成为大人物！
+16,,Without a word Eustace shoulders the boy named Skull and turns back to the path they came on.,<span class='scene-font-katari'>尤斯缇斯一言不发地扛起那个名叫斯卡尔（Skull）的男孩，转身回到他们来时的路上。</span>
+17,Lyria/露莉亚,"Er, Eustace... Where are you headed with him?",呃，尤斯缇斯，你要带他去哪儿？
+18,Eustace,I'm gonna make him talk. By brute force if need be.,我会让他开口的。必要的话会使用蛮力。
+19,Vyrn/碧,"You're scaring me, Sourpuss...",板着脸的大哥哥，你吓到我了……
+20,Skull,"Let me go, you dastard! Monsters roam these parts! If you get attacked, you'll be sorry!",放我走，你这懦夫！这里到处是怪物！如果你被攻击了，你会后悔的！
+21,Eustace,We'll be fine.,放心吧。
+24,Monster/魔物,Oof!,唔！
+26,,"A monster camouflaged against the snow ambushes the crew, but is felled by Eustace's bullet.",<span class='scene-font-katari'>一只在雪中伪装自己的怪物袭击了一行人，但被尤斯缇斯的子弹打倒了。</span>
+27,Eustace,I won't kill you until you tell me what I need to know. Until you fess up.,在你说出我想知道的之前，我不会杀你。直到你老实坦白。
+28,Skull,"Oh, phew, that's a relief!",哦，这样啊，那我就放心了！
+29,Skull,"Wait, that means if I confess, you'll kill me! You told me not to worry! That was a mean trick!",等等，这意味着如果我坦白了，你就会杀了我！你还告诉我不要担心！卑鄙的伎俩！
+30,Skull,What rotten luck! Let me go this instant!,可恶！马上放我走！
+31,,"The crew return to the airship, bringing Skull, still cursing loudly, along with them.",<span class='scene-font-katari'>一行人带着斯卡尔回到了船上，而后者始终在大声咒骂。</span>
+info,,,scene_evt151231_cp2_q1_s20
+译者,,,Ἀκρασἰα
